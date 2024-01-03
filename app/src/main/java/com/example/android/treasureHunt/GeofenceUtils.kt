@@ -80,6 +80,6 @@ internal object GeofencingConstants {
     )
 
     val NUM_LANDMARKS = LANDMARK_DATA.size
-    const val GEOFENCE_RADIUS_IN_METERS = 100f
+    const val GEOFENCE_RADIUS_IN_METERS = 20f
     const val EXTRA_GEOFENCE_INDEX = "GEOFENCE_INDEX"
 }
